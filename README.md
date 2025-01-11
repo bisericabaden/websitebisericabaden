@@ -1,2 +1,1 @@
-# websitebisericabaden
-Biserica Baden Elvetia Website
+# Repository for Biserica Baden Elvetia Website
